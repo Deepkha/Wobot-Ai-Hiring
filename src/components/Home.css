@@ -1,0 +1,8 @@
+.blah a{
+    color:grey;
+    text-decoration: none;
+}
+.blah a :hover{
+    color:blue;
+    cursor: pointer;
+}
